@@ -1,3 +1,10 @@
-.titulo {
-    background: aquamarine;
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(214, 15, 131);
+
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blueviolet
 }
