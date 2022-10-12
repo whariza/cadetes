@@ -8,3 +8,8 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:blueviolet
 }
+
+#lblContraseña{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
