@@ -52,7 +52,8 @@ class Route {
 
                 if(is_array($response) || is_object($response)){
 
-                    header('Content-Type: application/json');
+                    header('Content-Type: application/json; charset=utf-8');
+
                 } else {
                     echo $response;
                 }
@@ -65,7 +66,6 @@ class Route {
     }
 }
 // video 58 emepzando.
-?>
 
 
 

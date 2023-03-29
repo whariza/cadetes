@@ -25,4 +25,3 @@ Route::get('/courses/:slug',function($slug){
 });
 
 Route::dispatch();
-?>
